@@ -3,7 +3,6 @@
 💻 A passionate learner exploring **Machine Learning** and **Python** 🚀  
 
 ---
-
 ## 🚀 About Me  
 - 🌱 Currently learning **Python** & **Machine Learning**  
 - 👯 I’m looking to collaborate on **ML Projects** and **Open Source**  
