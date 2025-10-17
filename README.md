@@ -1,61 +1,66 @@
-👋 Hi, I'm Md Ahad Ali
+👋 Hi, I’m Md Ahad Ali
 🎓 2nd Year Undergraduate | Institute of Information Technology (IIT), Jahangirnagar University
-🤖 Passionate about Machine Learning, Research, and Real-time Python Projects
+🤖 Passionate about Machine Learning, Research & Real-time Python Projects
+✨ Lifelong learner driven by curiosity and problem solving
 
-<!-- Animated Banner --> <p align="center"> <img src="https://raw.githubusercontent.com/mdahadali/mdahadali/main/assets/ahad-animated-banner.gif" alt="Md Ahad Ali Banner" width="600"/> </p>
-🧠 About Me
-I am a dedicated computer science student focused on exploring Machine Learning concepts and real-world applications through research and hands-on projects.
-I enjoy developing Python-based projects that solve practical problems and strengthen my understanding of algorithms, data structures, and AI techniques.
+<p align="center"> <img src="https://raw.githubusercontent.com/mdahadali/mdahadali/main/assets/ahad-animated-banner.gif" alt="Md Ahad Ali Banner" width="700" /> </p>
+🌟 About Me
+I am a motivated Computer Science student with a deep interest in Machine Learning, AI research, and developing impactful real-time Python applications. My focus is on bridging theory with hands-on projects that solve practical problems.
 
-🚀 Projects
-Real-time ML Model Deployment
-Developed a Python project that deploys machine learning models to predict live data outputs with high accuracy.
+📚 Currently mastering Data Structures & Algorithms and Machine Learning
 
-LWT (Lightweight Technology) Python Application
-Building a lightweight Python application aimed at optimizing resource usage on low-end hardware.
+💻 Building Python projects that address real-world challenges
 
-Research on AI-based Automation
-Conducting research on automation using AI to streamline workflows in software projects.
+🏆 Solved 350+ problems on competitive programming platforms like LeetCode and Codeforces
 
+🤝 Actively seeking collaborations on open-source AI and ML projects
+
+🚀 Selected Projects
+Project Name	Description	Tech Stack
+Real-time ML Model Deployment	Deploys live machine learning models for accurate predictions on streaming data.	Python, Flask, TensorFlow
+LWT Python Application	Lightweight app optimized for resources on low-end systems.	Python
+AI-driven Workflow Automation	Research-driven project automating tasks via AI algorithms to enhance efficiency.	Python, Pandas, Scikit-learn
 🧰 Tech Stack
-Category	Tools
-Languages	
-Libraries	
-Tools	
 🎯 Learning Goals
-Master advanced Machine Learning algorithms
+Build advanced scalable ML models for real-time data analysis
 
-Build scalable real-time applications using Python
+Contribute to impactful open-source AI projects
 
-Contribute to open-source research projects in AI
+Improve coding practices and collaboration efficiency
 
-Strengthen problem-solving skills with DSA & competitive programming
+Explore integration of AI into daily tools and automation workflows
 
 📊 GitHub Stats
 🌐 Connect with Me
 [
 [
 [
-✉️ md3898145@gmail.com
+✉️ md.ahad@example.com
 
 
-name: Update GitHub Stats
 
-on:
-  schedule:
+
+name: Update GitHub Stats  
+
+on:  
+  schedule:  
     - cron: '0 0 * * *'  
-  workflow_dispatch:
+  workflow_dispatch:  
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+jobs:  
+  update-readme:  
+    runs-on: ubuntu-latest  
 
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+    steps:  
+      - name: Checkout repo  
+        uses: actions/checkout@v3  
 
-      - name: Generate README stats and badges
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: Generate README stats and badges  
+        uses: peaceiris/actions-gh-pages@v3  
+        with:  
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
+          publish_dir: ./public  
+
+
+
+
