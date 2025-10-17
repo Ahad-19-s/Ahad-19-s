@@ -44,3 +44,8 @@ Add GitHub Metrics workflow for automated stats updates
 
 Add blog-fetch workflow if you publish on Hashnode, Medium, etc.
 More info: [Hasnain Makada’s 2025 README Guide
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mdahadali/mdahadali/main/assets/ahad-animated-banner.gif" alt="Md Ahad Ali Banner" width="600"/>
+</p>
+
