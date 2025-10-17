@@ -1,39 +1,46 @@
-# Hi, I'm Ahad Ahmed 👋  
+👋 Hi, I'm Ahad Ahmed
+💡 Passionate Machine Learning Enthusiast | Python Developer | Lifelong Learner
 
-💻 A passionate learner exploring **Machine Learning** and **Python** 🚀  
+![Profile Views](https://komarev.com/ghpvc/?username=ahad-19-s&color
 
----
-## 🚀 About Me  
-- 🌱 Currently learning **Python** & **Machine Learning**  
-- 👯 I’m looking to collaborate on **ML Projects** and **Open Source**  
-- 💬 Ask me about **C++, Web Dev, Python basics**  
-- ⚡ Fun fact: I enjoy solving problems and exploring AI  
+![Followers](https://img.shields.io/github/followers/ahad-19-s?label
 
----
+🚀 About Me
+🌱 Learning Python and diving deep into Machine Learning
 
-## 🌐 Connect with me  
+🤝 Open to collaborating on AI/ML and Open Source projects
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AxHj7kUwJ/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
+💬 Let’s talk about C++, Web Development, and Python Basics
 
----
+⚡ Fun fact: I love solving real-world problems with creative AI solutions
 
-## 🛠️ Languages & Tools  
+🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColorhttps://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColorhttps://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColorhttps://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColorhttps://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColorhttps://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudi
 
----
+🌐 Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=(https://www.facebook.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=(https://www.linkedin.comhttps://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github(https://github.com/ahad-
 
-## 📊 GitHub Stats  
+📊 GitHub Stats
+![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahad-19-s&show_icons=true
 
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahad-19-s&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahad-19-s&layout
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahad-19-s&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user
 
----
+🏆 Achievements
+🥇 Completed Machine Learning mini-projects with Python
 
+🔭 Contributing to Open Source and learning Git workflows
+
+📘 Exploring use of AI in automation and predictive analysis
+
+⚙️ GitHub Workflows (optional advanced)
+To make your profile dynamic:
+
+Add GitHub Metrics workflow for automated stats updates
+
+Add blog-fetch workflow if you publish on Hashnode, Medium, etc.
+More info: [Hasnain Makada’s 2025 README Guide
