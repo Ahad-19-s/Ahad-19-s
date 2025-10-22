@@ -71,10 +71,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ahad-19-s&theme=react-dark&hide_border=true" width="48%" />
-</p>
+## 📈 Activity Graph
+
+[![Ahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahad-19-s&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
