@@ -4,13 +4,14 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
 - Information Technology undergraduate at IIT-JU (Class of 2024)
 - Learning and building projects in **Machine Learning** using **Python, NumPy, and Pandas**
 - Solving algorithmic and data structure problems on **LeetCode**
 - Passionate about **hands-on projects**, coding challenges, and continuous learning
 - Open to **collaboration**, team projects, and contributing to open-source
+
 
 ---
 
@@ -35,25 +36,34 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight&count_private=true&hide=prs" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-19-s&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-19-s&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-19-s&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-19-s&theme=tokyonight" />
+</p>
+
 
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
+  <!-- Coursera -->
   <a href="https://www.coursera.org/account/accomplishments/verify/XYZ123">
     <img src="https://img.shields.io/badge/-Machine%20Learning-Coursera-blue?style=flat&logo=coursera" alt="Coursera ML"/>
   </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/username">
     <img src="https://img.shields.io/badge/-Problem%20Solving-HackerRank-green?style=flat&logo=hackerrank" alt="HackerRank"/>
   </a>
+
+  <!-- LeetCode -->
   <a href="https://leetcode.com/username/">
     <img src="https://img.shields.io/badge/-Algorithms-LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode"/>
   </a>
@@ -61,10 +71,9 @@
 
 ---
 
-## 📈 Activity Graph
-
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ahad-19-s&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ahad-19-s&theme=react-dark&hide_border=true" width="48%" />
 </p>
 
 ---
