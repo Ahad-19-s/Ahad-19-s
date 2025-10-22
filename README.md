@@ -16,13 +16,19 @@
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  🐍 Python | 💻 C | C++ | Java  
-  🌐 HTML | CSS | Bootstrap  
-  📊 NumPy | Pandas | Matplotlib | Scikit-learn  
-  🛠 Git | GitHub | VS Code | Jupyter Notebook  
-  📚 Data Structures & Algorithms | Machine Learning
-</p>
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=NumPy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Machine Learning](https://img.shields.io/badge/-ML-333?style=flat&logo=TensorFlow)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+
 
 ---
 
