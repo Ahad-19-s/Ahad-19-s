@@ -1,107 +1,93 @@
-# Hi there 👋, I'm Ahad✨
+# Hi there 👋, I'm Ahad ✨
 
-### Student @ IIT, Jahangirnagar University | 
+### Information Technology Student at IIT-JU (Class of 2024) | Bangladesh
 
 ---
 
-## About Me
+## 💻 About Me
 
-  * Studying Information Technology @ IIT-JU (2024 batch)
-  * Learning Web Dev, DSA , UI/UX,ML
-  * ‍ Building mini-projects & exploring GitHub
-  * Open to collaboration & teamwork
+- Information Technology undergraduate at IIT-JU (Class of 2024)
+- Learning and building projects in **Machine Learning** using **Python, NumPy, and Pandas**
+- Solving algorithmic and data structure problems on **LeetCode**
+- Passionate about **hands-on projects**, coding challenges, and continuous learning
+- Open to **collaboration**, team projects, and contributing to open-source
 
 ---
 
 ## ⚡ Tech Stack
 
----
-
-## GitHub Stats
-
-![github stats image 1]()
-![github stats image 2]()
-![github streak image]()
-
----
-
-## Achievements
-
-![achievements image]()
+<p align="center">
+  🐍 Python | 💻 C | C++ | Java  
+  🌐 HTML | CSS | Bootstrap  
+  📊 NumPy | Pandas | Matplotlib | Scikit-learn  
+  🛠 Git | GitHub | VS Code | Jupyter Notebook  
+  📚 Data Structures & Algorithms | Machine Learning
+</p>
 
 ---
 
-## Activity Graph
+## 📊 GitHub Stats
 
-![activity graph image]()
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight&count_private=true&hide=prs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-19-s&layout=compact&theme=tokyonight" width="49%" />
+</p>
 
----
-
-## Connect With Me
-
-![social icon 1]() ![social icon 2]() ![social icon 3]()
-
----
-
-## Fun Facts
-
-  * I code best with lo-fi music
-  * Passionate about UI design
-  * Love nature photography
-  * Enjoy logic puzzles & brain teasers
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-19-s&theme=tokyonight" width="60%" />
+</p>
 
 ---
 
-## Popular repositories
+## 🏆 Achievements
 
-  1. firstRep — firstRep (Public)
-  2. ICT-2106-Internet-and-web-technology-lab (Public) — HTML
-  3. projects (Public)
-  4. afrozaema (Public) — Personal GitHub profile of Afroza Ema – Student at IIT, Jahangirnagar University | Passionate about coding, design, and building cool things on the web.
-  5. afrozaema.github.io (Public) — Afroza Ema's personal portfolio – Showcasing projects, skills & journey from IIT JU
-  6. SeatFinder (Public) — An AI-powered exam seat finder and direction guide for Jahangirnagar University students | ema — TypeScript
-efficiency.	Python, Pandas, Scikit-learn
-🧰 Tech Stack
-🎯 Learning Goals
-Build advanced scalable ML models for real-time data analysis
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/verify/XYZ123">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-Coursera-blue?style=flat&logo=coursera" alt="Coursera ML"/>
+  </a>
+  <a href="https://www.hackerrank.com/username">
+    <img src="https://img.shields.io/badge/-Problem%20Solving-HackerRank-green?style=flat&logo=hackerrank" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/username/">
+    <img src="https://img.shields.io/badge/-Algorithms-LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
 
-Contribute to impactful open-source AI projects
+---
 
-Improve coding practices and collaboration efficiency
+## 📈 Activity Graph
 
-Explore integration of AI into daily tools and automation workflows
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ahad-19-s&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="80%" />
+</p>
 
-📊 GitHub Stats
-🌐 Connect with Me
-[
-[
-[
-✉️ md.ahad@example.com
+---
 
+## 🔗 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/Ahad-19-s" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahad-19-s/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/ahad" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
 
+---
 
-name: Update GitHub Stats  
+## 🎯 Fun Facts
 
-on:  
-  schedule:  
-    - cron: '0 0 * * *'  
-  workflow_dispatch:  
+🎵 Lo-fi lover | 🎨 UI/UX enthusiast | 🌿 Nature photographer | 🧩 Puzzle solver
 
-jobs:  
-  update-readme:  
-    runs-on: ubuntu-latest  
+---
 
-    steps:  
-      - name: Checkout repo  
-        uses: actions/checkout@v3  
+## 📂 Popular Repositories
 
-      - name: Generate README stats and badges  
-        uses: peaceiris/actions-gh-pages@v3  
-        with:  
-          github_token: ${{ secrets.GITHUB_TOKEN }}  
-          publish_dir: ./public  
-
-
-
-
+1. [firstRep](https://github.com/Ahad-19-s/firstRep) — A starter repository for learning and experimenting with coding projects.
+2. [ICT-2106-Internet-and-web-technology-lab](https://github.com/Ahad-19-s/ICT-2106-Internet-and-web-technology-lab) — HTML-based lab exercises for Internet and Web Technology course.
+3. [projects](https://github.com/Ahad-19-s/projects) — Collection of mini-projects and experiments in Python, ML, and Web Development.
+4. [SeatFinder](https://github.com/Ahad-19-s/SeatFinder) — AI-powered exam seat finder and direction guide for Jahangirnagar University students (TypeScript).
