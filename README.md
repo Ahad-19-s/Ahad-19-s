@@ -1,25 +1,66 @@
-👋 Hi, I’m Md Ahad Ali
-🎓 2nd Year Undergraduate | Institute of Information Technology (IIT), Jahangirnagar University
-🤖 Passionate about Machine Learning, Research & Real-time Python Projects
-✨ Lifelong learner driven by curiosity and problem solving
+# Hi there 👋, I'm Ahad✨
 
-<p align="center"> <img src="https://raw.githubusercontent.com/mdahadali/mdahadali/main/assets/ahad-animated-banner.gif" alt="Md Ahad Ali Banner" width="700" /> </p>
-🌟 About Me
-I am a motivated Computer Science student with a deep interest in Machine Learning, AI research, and developing impactful real-time Python applications. My focus is on bridging theory with hands-on projects that solve practical problems.
+### Student @ IIT, Jahangirnagar University | 
 
-📚 Currently mastering Data Structures & Algorithms and Machine Learning
+---
 
-💻 Building Python projects that address real-world challenges
+## About Me
 
-🏆 Solved 350+ problems on competitive programming platforms like LeetCode and Codeforces
+  * Studying Information Technology @ IIT-JU (2024 batch)
+  * Learning Web Dev, DSA , UI/UX,ML
+  * ‍ Building mini-projects & exploring GitHub
+  * Open to collaboration & teamwork
 
-🤝 Actively seeking collaborations on open-source AI and ML projects
+---
 
-🚀 Selected Projects
-Project Name	Description	Tech Stack
-Real-time ML Model Deployment	Deploys live machine learning models for accurate predictions on streaming data.	Python, Flask, TensorFlow
-LWT Python Application	Lightweight app optimized for resources on low-end systems.	Python
-AI-driven Workflow Automation	Research-driven project automating tasks via AI algorithms to enhance efficiency.	Python, Pandas, Scikit-learn
+## ⚡ Tech Stack
+
+---
+
+## GitHub Stats
+
+![github stats image 1]()
+![github stats image 2]()
+![github streak image]()
+
+---
+
+## Achievements
+
+![achievements image]()
+
+---
+
+## Activity Graph
+
+![activity graph image]()
+
+---
+
+## Connect With Me
+
+![social icon 1]() ![social icon 2]() ![social icon 3]()
+
+---
+
+## Fun Facts
+
+  * I code best with lo-fi music
+  * Passionate about UI design
+  * Love nature photography
+  * Enjoy logic puzzles & brain teasers
+
+---
+
+## Popular repositories
+
+  1. firstRep — firstRep (Public)
+  2. ICT-2106-Internet-and-web-technology-lab (Public) — HTML
+  3. projects (Public)
+  4. afrozaema (Public) — Personal GitHub profile of Afroza Ema – Student at IIT, Jahangirnagar University | Passionate about coding, design, and building cool things on the web.
+  5. afrozaema.github.io (Public) — Afroza Ema's personal portfolio – Showcasing projects, skills & journey from IIT JU
+  6. SeatFinder (Public) — An AI-powered exam seat finder and direction guide for Jahangirnagar University students | ema — TypeScript
+efficiency.	Python, Pandas, Scikit-learn
 🧰 Tech Stack
 🎯 Learning Goals
 Build advanced scalable ML models for real-time data analysis
