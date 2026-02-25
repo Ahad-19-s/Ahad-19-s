@@ -1,107 +1,80 @@
 # Hi there 👋, I'm Ahad ✨
 
-### Information Technology Student at IIT-JU (Class of 2024) | Bangladesh
+### **Information Technology Student @ IIT-JU (Class of 2024)** **Aspiring ML Engineer | Problem Solver | UI/UX Enthusiast**
 
 ---
 
-## About Me
+## 📖 About Me
 
-- Information Technology undergraduate at IIT-JU (Class of 2024)
-- Learning and building projects in **Machine Learning** using **Python, NumPy, and Pandas**
-- Solving algorithmic and data structure problems on **LeetCode**
-- Passionate about **hands-on projects**, coding challenges, and continuous learning
-- Open to **collaboration**, team projects, and contributing to open-source
-
-
----
-
-## ⚡ Tech Stack
-
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
-![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=NumPy)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![Machine Learning](https://img.shields.io/badge/-ML-333?style=flat&logo=TensorFlow)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-
+- 🎓 **Final Year Student** at the Institute of Information Technology, Jahangirnagar University.
+- 🤖 **Machine Learning Enthusiast** building predictive models with Python, NumPy, and Pandas.
+- 🧩 **Competitive Programmer** actively solving challenges on LeetCode and HackerRank.
+- 🚀 **Builder** passionate about creating tools like **SeatFinder** to solve campus navigation issues.
+- 🎨 **Creative Mind** who loves Lo-fi beats, nature photography, and clean UI design.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=NumPy) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas) ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+---
+
+## 🚀 Featured Projects
+
+### 📍 [SeatFinder](https://github.com/Ahad-19-s/SeatFinder)
+> An AI-powered application designed to help Jahangirnagar University students find their exam seats and navigate campus buildings effortlessly.  
+> **Tech:** TypeScript, Python, ML Integration.
+
+### 📊 [ML Portfolio](https://github.com/Ahad-19-s/projects)
+> A curated collection of Machine Learning experiments focusing on data preprocessing, regression models, and exploratory data analysis (EDA).  
+> **Tech:** Python, NumPy, Pandas, Matplotlib.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight&count_private=true&hide=prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahad-19-s&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-19-s&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahad-19-s&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-19-s&theme=tokyonight" />
-</p>
-
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <!-- Coursera -->
-  <a href="https://www.coursera.org/account/accomplishments/verify/XYZ123">
-    <img src="https://img.shields.io/badge/-Machine%20Learning-Coursera-blue?style=flat&logo=coursera" alt="Coursera ML"/>
-  </a>
-
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/username">
-    <img src="https://img.shields.io/badge/-Problem%20Solving-HackerRank-green?style=flat&logo=hackerrank" alt="HackerRank"/>
-  </a>
-
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/username/">
-    <img src="https://img.shields.io/badge/-Algorithms-LeetCode-orange?style=flat&logo=leetcode" alt="LeetCode"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahad-19-s&theme=tokyonight&border_radius=10" width="100%" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🏆 Achievements & Certifications
 
-[![Ahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahad-19-s&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- 🏅 **Machine Learning Specialization** – Coursera
+- 🌟 **5-Star Problem Solver** – HackerRank
+- 💻 **Algorithm Specialist** – LeetCode
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/Ahad-19-s" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/Ahad-19-s">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ahad-19-s/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/ahad-19-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/ahad" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <a href="https://www.kaggle.com/ahad">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-## 🎯 Fun Facts
-
-🎵 Lo-fi lover | 🎨 UI/UX enthusiast | 🌿 Nature photographer | 🧩 Puzzle solver
-
----
-
-## 📂 Popular Repositories
-
-1. [firstRep](https://github.com/Ahad-19-s/firstRep) — A starter repository for learning and experimenting with coding projects.
-2. [ICT-2106-Internet-and-web-technology-lab](https://github.com/Ahad-19-s/ICT-2106-Internet-and-web-technology-lab) — HTML-based lab exercises for Internet and Web Technology course.
-3. [projects](https://github.com/Ahad-19-s/projects) — Collection of mini-projects and experiments in Python, ML, and Web Development.
-4. [SeatFinder](https://github.com/Ahad-19-s/SeatFinder) — AI-powered exam seat finder and direction guide for Jahangirnagar University students (TypeScript).
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
